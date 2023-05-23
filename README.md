@@ -1,5 +1,6 @@
 # Progress-Learning-Dark-Mode
 - Simple Tampermonkey Dark-Mode Theme for Progress Learning.
+- Written in 100% JavaScript.
 
 # Download:
 - Download Source Code Via [GitHub](https://github.com/Cracko298/Progress-Learning-Dark-Mode/releases/download/v1.0-alpha-1/Dark-Mode-Theme.js).
