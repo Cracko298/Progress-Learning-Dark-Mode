@@ -1,5 +1,5 @@
 # Progress-Learning-Dark-Mode
-Dark-Mode Theme for Progress Learning (Newer/Updated Version of USATESTPREP).
+- Simple Tampermonkey Dark-Mode Theme for Progress Learning.
 
 # Download:
 - Download Source Code Via [GitHub](https://github.com/Cracko298/Progress-Learning-Dark-Mode/releases/download/v1.0-alpha-1/Dark-Mode-Theme.js).
